@@ -33,6 +33,7 @@ html, body {
 	height: 70px;
 	width: 100%;
 	padding-top: .01em;
+	position: fixed;
 }
 
 .nav-links {
@@ -63,6 +64,14 @@ html, body {
 }
 
 /* begin section thinkful-projects */
+
+.thinkful-projects {
+	background-color: white;
+}
+
+.project-image img {
+	width: 600px;
+}
 
 /* begin section learning */
 
