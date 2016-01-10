@@ -1,7 +1,7 @@
 /* begin CSS */
 body {
 	background-color: #157a6e;
-	font-family: 'Palanquin Dark', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 html, body {
@@ -53,7 +53,6 @@ html, body {
 /* begin section about-me */
 
 .about-me {
-	font-family: 'Quattrocento Sans', sans-serif;
 	background-color: #0073a0;
 	color: white;
 	padding-top: .01em;
