@@ -1,8 +1,67 @@
 /* begin CSS */
+body {
+	background-color: #157a6e;
+	font-family: 'Palanquin Dark', sans-serif;
+}
+
+html, body {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* general classes */
+
+.content {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0px 15px;
+	height: 100%;
+}
+
+.section-header {
+	text-align: center;
+}
 
 /* begin nav top-nav */
 
+.top-nav li {
+	list-style-type: none;
+}
+
+.top-nav {
+	background-color: white;
+	height: 70px;
+	width: 100%;
+	padding-top: .01em;
+}
+
+.nav-links {
+	float: right;
+	margin-top: 1.7em;
+	margin-left: 1.5em;
+}
+
+/* begin masthead */
+
+.masthead {
+  	background-size: cover;
+	background-image: url(https://images.unsplash.com/photo-1440557958969-404dc361d86f?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1400);
+	height: 35em;
+	padding-top: .01em;
+}
+
 /* begin section about-me */
+
+.about-me {
+	font-family: 'Quattrocento Sans', sans-serif;
+	background-color: #0073a0;
+	color: white;
+	padding-top: .01em;
+}
+
+.about-me p {
+	font-size: 1.7em;
+}
 
 /* begin section thinkful-projects */
 
